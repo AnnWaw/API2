@@ -1,3 +1,9 @@
 {
-  "foo": "bar"
+  "airports": 
+  [
+    {"name": "Katowice", "symbol": "KTW"},
+    {"name": "Wrocław", "symbol": "WRO"},
+    {"name": "Warszawa", "symbol": "WAW"},
+    {"name": "Gdańsk", "symbol": "GDA"}
+  ]
 }
